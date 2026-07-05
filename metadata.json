@@ -1,0 +1,6 @@
+{
+  "name": "OURIN Downloader",
+  "description": "A high-performance Android client for JioHotstar and Hotstar video streaming, format selecting, and downloading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
